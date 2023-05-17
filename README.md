@@ -6,8 +6,8 @@ mmafmtransfer tool checks the compatibily of the object storage owned by user wi
 
 ## How to run the tool?
 ### Prepare configuration file
-In mmafmtransfer folder, you can see the configuration file named mmafmtransfer.conf.
-Make appropriate changes specific to your cloud object storage to the configuration file. 
+In mmafmtransfer folder, you can see the configuration file named mmafmtransfer.conf.**
+Make appropriate changes specific to your cloud object storage to the configuration file. **
 
 ### Command to run the tool. 
 Ensure that you have the appropriate permissions to execute the script. 
