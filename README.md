@@ -16,7 +16,7 @@ To add the permission, use following command:<br><br>
 <pre>
   chmod +x mmafmtransfer_script.sh
 </pre>
-Make Sure that you are in the correct folder of tool. 
+Make sure that you are in the respective folder of tool. 
 
 Run the following command to run the tool:<br><br>
 <pre>
