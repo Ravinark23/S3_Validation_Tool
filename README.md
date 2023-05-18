@@ -14,12 +14,12 @@ Make appropriate changes specific to your cloud object storage to the configurat
 Ensure that you have the appropriate permissions to execute the script. <br>
 To add the permission, use following command:<br><br>
 <pre>
-  chmod +x mmafmtransfer_script.sh<br><br>
+  chmod +x mmafmtransfer_script.sh
 </pre>
 Make Sure that you are in the correct folder of tool. 
 
 Run the following command to run the tool:<br><br>
 <pre>
-  ./mmafmtransfer_script.sh<br><br>
+  ./mmafmtransfer_script.sh
 </pre>
 
