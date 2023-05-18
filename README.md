@@ -10,6 +10,7 @@ In mmafmtransfer folder, you can see the configuration file named mmafmtransfer.
 Make appropriate changes specific to your cloud object storage to the configuration file. <br>
 
 ### Command to run the tool. 
+<pre>
 Ensure that you have the appropriate permissions to execute the script. <br>
 To add the permission, use following command:<br><br>
   chmod +x mmafmtransfer_script.sh<br><br>
@@ -17,4 +18,6 @@ Make Sure that you are in the correct folder of tool.
 
 Run the following command to run the tool:<br><br>
   ./mmafmtransfer_script.sh<br><br>
+  
+</pre>
 
