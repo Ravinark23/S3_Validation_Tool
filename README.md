@@ -1,7 +1,7 @@
 # mmafmtransfer tool
 
 ## What is mmafmtransfer tool?
-mmafmtransfer tool checks the compatibily of the object storage owned by user with s3 storage for setting up AFM. 
+- mmafmtransfer tool checks the compatibily of the object storage owned by user with s3 storage for setting up AFM. 
 
 
 ## How to run the tool?
