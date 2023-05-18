@@ -6,19 +6,19 @@ mmafmtransfer tool checks the compatibily of the object storage owned by user wi
 
 ## How to run the tool?
 ### Prepare configuration file
-In mmafmtransfer folder, you can see the configuration file named mmafmtransfer.conf. <br>
-Make appropriate changes specific to your cloud object storage to the configuration file. <br>
+- In mmafmtransfer folder, you can see the configuration file named mmafmtransfer.conf. <br>
+- Make appropriate changes specific to your cloud object storage to the configuration file. <br>
 
 ### Command to run the tool. 
 
-Ensure that you have the appropriate permissions to execute the script. <br>
-To add the permission, use following command:<br><br>
+- Ensure that you have the appropriate permissions to execute the script. <br>
+- To add the permission, use following command:<br><br>
 <pre>
   chmod +x mmafmtransfer_script.sh
 </pre>
-Make sure that you are in the respective folder of tool. 
+- Make sure that you are in the respective folder of tool. 
 
-Run the following command to run the tool:<br><br>
+- Run the following command to run the tool:<br><br>
 <pre>
   ./mmafmtransfer_script.sh
 </pre>
